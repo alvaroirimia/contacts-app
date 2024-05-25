@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/contacts-app/static/css/main.63ac5bb3.css",
+    "main.css": "/contacts-app/static/css/main.453c4722.css",
     "main.js": "/contacts-app/static/js/main.63ee7b0e.js",
     "static/js/453.d858012f.chunk.js": "/contacts-app/static/js/453.d858012f.chunk.js",
     "static/media/video-head-bbq.mp4": "/contacts-app/static/media/video-head-bbq.12076fb93e13ab36af45.mp4",
@@ -11,12 +11,12 @@
     "static/media/disco-roi.jpg": "/contacts-app/static/media/disco-roi.85be985752f588e91e0d.jpg",
     "static/media/ticket.jpg": "/contacts-app/static/media/ticket.39a4e4d3cbebee3d1360.jpg",
     "index.html": "/contacts-app/index.html",
-    "main.63ac5bb3.css.map": "/contacts-app/static/css/main.63ac5bb3.css.map",
+    "main.453c4722.css.map": "/contacts-app/static/css/main.453c4722.css.map",
     "main.63ee7b0e.js.map": "/contacts-app/static/js/main.63ee7b0e.js.map",
     "453.d858012f.chunk.js.map": "/contacts-app/static/js/453.d858012f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63ac5bb3.css",
+    "static/css/main.453c4722.css",
     "static/js/main.63ee7b0e.js"
   ]
 }
